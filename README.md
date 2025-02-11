@@ -12,8 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erelego_technologies/?next=%2F)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eReleGo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/company/erelego-technologies-pvt-ltd/?originalSubdomain=in)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/eReleGo-Technologies-Pvt-Ltd)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/eReleGo-Technologies-Pvt-Ltd)
 
 **Generate QR Codes effortlessly with our QR Code Generator.** Customize, track, and analyze your QR Codes with ease. Start for free—no expiration!
 
@@ -44,7 +43,18 @@ Select from multiple options:
 - WhatsApp
 - vCard
 - UPI Payment
-
+- Text
+- Email
+- Phone
+- Zoom
+- vCard
+- SMS
+- Location
+- Wi-Fi
+- Event
+- UPI Pay
+- Attachments
+ 
 ### 🔹 Step 2: Customize Your Design
 🎨 Change colors, add logos, and personalize your QR Code to align with your brand.
 
