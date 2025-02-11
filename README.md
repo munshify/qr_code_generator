@@ -1,85 +1,88 @@
-# qr_code_generator
+<p >
+<h1 align="center">QR Code Generator – Create QR Codes for Free</h1>
+</p>
 
-Munshify’s QR Code Generator makes it easy to create custom QR codes for various purposes, from sharing website links and providing instant contact details to tracking originality and gathering product or service-related information.
+<p align="center">
+<img src="https://erelego.com/wp-content/uploads/2024/02/Logo-02.png" alt="QR Code Generator Logo" width="200" />
+</p>
+
+## Follow Us on Social Media 📲
+ 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eReleGo/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erelego_technologies/?next=%2F)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eReleGo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/company/erelego-technologies-pvt-ltd/?originalSubdomain=in)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/eReleGo-Technologies-Pvt-Ltd)
 
 
-QR Code Generator – Create QR Codes for Free
+**Generate QR Codes effortlessly with our QR Code Generator.** Customize, track, and analyze your QR Codes with ease. Start for free—no expiration!
 
-Customize it with your color, shape, and logo in 3 simple steps. Generate QR Codes effortlessly with our QR Code Generator. A free plan that never expires! Customize your QR Codes, track their performance, and make informed decisions with ease.
+🔗 **[Try it Now](https://munshify.com/products/qr-code-generator/?utm_source=organic&utm_medium=github&utm_campaign=github_qr_leadgen)**
 
-How It Works
+---
 
-Step 1: Choose the QR Code Type
-Select the type of QR Code that best fits your needs. Choose from multiple options, including a link (URL), PDF, or Multi-URL. While static QR Codes cannot be edited after creation, dynamic QR Codes can be edited anytime.
+## 📌 Features
 
-Step 2: Design & Customize
-Enter the information in the provided fields. Optionally, personalize your QR Code to make it stand out. Use the customization panel to add a logo, change colors, and adjust styles to align with your brand.
+✅ **Customizable QR Codes** – Match your brand’s look with unique colors, shapes, and logos.
 
-Step 3: Download Your QR Code
-Choose your preferred file format and size (PNG or SVG). Once selected, download your custom QR Code. It’s now ready to scan and generate data that you can analyze to improve your campaign.
+✅ **Advanced Tracking & Analytics** – Monitor scans, track user locations, and optimize campaigns.
 
-Generate QR Codes for Various Uses
+✅ **Instant Redirection** – Link to websites, social media, payments, app downloads, and more.
 
-Goto : [https://munshify.com/products/qr-code-generator/]
+✅ **Mobile-Friendly & Universal** – Works on all smartphones and devices.
 
-Website - Link your URL to a QR code so that anyone can access your website instantly.
-Text - Encode text messages and share information easily.
-Email - Pre-fill emails for quick contact.
-WhatsApp & SMS - Generate QR Codes for instant messaging.
-Phone & Zoom - Make calling or joining meetings seamless.
-Video - Share video content effortlessly.
-vCard & Location - Simplify contact sharing and location access.
-Wi-Fi & Event - Easy network connections and event registrations.
-UPI Pay - Enable quick digital payments.
+✅ **Secure & Scalable** – Enterprise-grade encryption ensures data security.
 
-Key Benefits & Features
-Customizable QR Code Generator
-Match your brand’s look with personalized QR codes that blend seamlessly into your designs.
-Advanced Tracking & Analytics
-Monitor scans in real-time, track user locations, devices, and times for better marketing insights.
-Instant Redirection
-Easily link to websites, social media, contact forms, app downloads, and more, with one quick scan.
-Mobile-Friendly & Universal
-Optimized for all smartphones and devices, ensuring your audience can connect anytime, anywhere.
-Secure & Scalable
-Keep your data safe with an encrypted QR code generator, designed for enterprises of any size.
+---
 
-Pricing Plans
-Plan	Price	Features
-FREE	₹0/month	10 Static QR Codes, 3 Dynamic QR Codes, 100 Scans, UTM Parameter
-Premium	₹799 ₹149/month	QR Code management dashboard, Analytics & Reporting, Unlimited Static & Dynamic QR Codes, Customization Options, Download Options
-Enterprise	Contact Us	All features in Premium, Customization Options, Dedicated Support
+## 🎨 How It Works
 
-Frequently Asked Questions (FAQ)
+### 🔹 Step 1: Choose Your QR Code Type
+Select from multiple options:
+- Website
+- PDF
+- WhatsApp
+- vCard
+- UPI Payment
 
-What is a QR Code?
-A QR Code (Quick Response Code) is a type of barcode that can store various types of data, such as URLs, text, or contact information. When scanned with a smartphone or QR code reader, it quickly provides the information or takes you to a website.
+### 🔹 Step 2: Customize Your Design
+🎨 Change colors, add logos, and personalize your QR Code to align with your brand.
 
-What is a QR Code generator?
-A QR Code generator is a tool that allows you to create QR Codes that store various types of information, such as links, emails, or payment details.
+### 🔹 Step 3: Download & Use
+📥 Download in PNG or SVG format and start using your QR Code instantly!
 
-Is the QR Code generator free?
-Yes! We offer a free plan with essential features, and you can upgrade for advanced tracking and customization.
+---
 
-What are the benefits of using a QR Code generator?
-QR Codes make it easy to share information, drive engagement, and enable seamless interactions between businesses and customers.
+## 💲 Pricing Plans
 
-What kind of information can be stored in a QR Code generator?
-You can store website links, contact details, payment details, social media links, event registrations, and much more.
+| Plan       | Price   | Features |
+|------------|---------|---------------------------------|
+| **Free**  | ₹0/mo  | 10 Static, 3 Dynamic QR Codes, 100 Scans |
+| **Premium** | ₹149/mo  | Unlimited QR Codes, Customization, Analytics |
+| **Enterprise** | Custom | Advanced features & priority support |
 
-What is the difference between static and dynamic QR Codes?
-Static QR Codes: Fixed data that cannot be changed after creation.
-Dynamic QR Codes: Editable and trackable data that can be updated anytime.
+🔗 **[Choose Your Plan](https://munshify.com/products/qr-code-generator/?utm_source=organic&utm_medium=github&utm_campaign=github_qr_leadgen)**
 
-How many types of QR Codes are there?
-There are various types, including website, text, email, phone, Wi-Fi, UPI, event, and more.
+---
 
-How long are QR Codes valid?
-Static QR Codes never expire.
+## 📖 FAQ
 
-Dynamic QR Codes are available as long as your plan remains active.
+### ❓ What is a QR Code?
+A **QR Code (Quick Response Code)** is a type of barcode that stores data, such as URLs, text, or contact details, which can be quickly accessed by scanning.
 
-Learn More & Generate Your QR Code Now
+### ❓ Is the QR Code Generator free?
+Yes! We offer a **free plan that never expires** with limited QR Code generation and scans.
 
-[https://munshify.com/products/qr-code-generator/]
+### ❓ What is the difference between Static and Dynamic QR Codes?
+- **Static QR Codes**: Fixed and **cannot be changed** after creation.
+- **Dynamic QR Codes**: Editable even after printing, allowing for updates.
 
+### ❓ How long do QR Codes remain valid?
+- **Static QR Codes**: Lifetime validity.
+- **Dynamic QR Codes**: Depends on your active plan.
+
+---
+
+📢 **Start creating your QR Codes today!** 🚀
+
+🔗 **[Try it Now](https://munshify.com/products/qr-code-generator/?utm_source=organic&utm_medium=github&utm_campaign=github_qr_leadgen)**
